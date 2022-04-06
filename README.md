@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Heinous-proaf
-- 👀 I’m interested in programming and stuffs 
+- 👀 I’m interested in making telegram bots and website. 
 - 🌱 I’m currently learning python and java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
