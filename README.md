@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Heinous-proaf
-- 👀 I’m interested in making telegram bots and website. 
-- 🌱 I’m currently learning python and java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Heinous-proaf/Heinous-proaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+this is a test . Not main project 
